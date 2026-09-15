@@ -1,7 +1,7 @@
 # Desenvolvimento-Simula-o-e-Apresenta-o-de-um-Sistema-Kanban
 
 https://trello.com/invite/b/6aa09bec58dfa42e9b222268/ATTIcc0477c53dec754df4a4707301ddfbc7079621AC/sistema-de-reservas-pousada
-# Sistema Kanban para Gestão de Reservas de Pousada
+# Sistema para Gestão de Reservas de uma Pousada
 
 Projeto desenvolvido na disciplina de **Metodologias Ágeis**, com o objetivo de aplicar os conceitos e práticas do **Kanban** na organização do fluxo de trabalho de uma equipe de desenvolvimento.
 
